@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+	padding: 0;
+	position: static;
+	
+}
+
+.rojo{
+	background-color: red;
+	height: 600px;
+	width: 600px;
+
+}
+.morado{
+	background-color: #42078B;
+	height: 300px;
+	width: 300px;
+	left: 140px;
+	top: 25%;
+	position: absolute;
+	
+}
+.amarillo{
+	background-color: yellow;
+	height: 150px;
+	width: 150px;
+	top: 0;
+	right: 0;
+}
+
+.boton{
+	border: 1px solid black;
+	background-color: #04D6C0;
+	font-size: 15px;
+}
